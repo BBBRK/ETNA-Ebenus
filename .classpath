@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="maven-quest-ebenus-dao-jdbc/src/main/java"/>
+	<classpathentry kind="src" path="maven-quest-ebenus-dao-jdbc/src/test/java"/>
+	<classpathentry kind="src" path="maven-quest-ebenus-dao-manual/src/main/java"/>
+	<classpathentry kind="src" path="maven-quest-ebenus-dao-manual/src/test/java"/>
+	<classpathentry kind="src" path="maven-quest-ebenus-web/src/main/java">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Jimmy/Desktop/Nouveau dossier (2)/JEE/Servers/Tomcat v9.0 Server at localhost-config"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Jimmy/Desktop/env/tomcat/apache-tomcat-9.0.35/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jimmy/Desktop/Nouveau dossier (2)/group-777918/WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_251">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jimmy/Desktop/Nouveau dossier (2)/group-777918/WebContent/WEB-INF/lib/jstl-standard.jar"/>
+	<classpathentry kind="output" path="maven-quest-ebenus-dao-jdbc/target/classes"/>
+</classpath>
